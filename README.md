@@ -3,4 +3,4 @@ This was a group project I worked on for a course called Machine Learning at Sca
 
 This project was originally done in Databricks in order to handle the size and scope of the data The databricks notebooks have been saved as html files for this repo. In addition, the original project was done using blob storage to save the data at various stages and as such there is not a single notebook that encapsulates the process. Instead there are multiple notebooks in labeled files to describe their functions.
 
-The Group6_Main_Notebook.html provides a written overview of the processes we used. The original notebook had images embedded but they do not work in the html format.
+Group6_Main_Notebook.html provides a written overview of the processes we used. The original notebook had images embedded but they do not work in the html format.
